@@ -178,7 +178,7 @@ public:
                     withdraw();
                     break;
                 case 4:
-                    viewBalance();
+                    viewbalance();
                     break;
                 case 5:
                     viewTransactionHistory();
